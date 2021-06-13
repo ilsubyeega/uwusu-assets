@@ -1,0 +1,9 @@
+<svg id="LOGO_LAYER" data-name="LOGO LAYER" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 470">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <path class="cls-1" d="M250,55c107.7,0,195,87.3,195,195S357.7,445,250,445,55,357.7,55,250,142.3,55,250,55m0-40a235.05,235.05,0,0,0-91.48,451.52,235.05,235.05,0,0,0,183-433A233.59,233.59,0,0,0,250,15Z" transform="translate(-15 -15)" />
+    <circle class="cls-1" cx="293.75" cy="235" r="37.5" />
+    <circle class="cls-1" cx="206.25" cy="158.75" r="37.5" />
+    <circle class="cls-1" cx="206.25" cy="311.25" r="37.5" />
+</svg>
